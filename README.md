@@ -11,7 +11,7 @@
 - 언리얼, 2024.04.01 ~ 2024.11.29 (약 8개월) / 2명
 - 적을 물리치고 바다를 얼려 살아남는 쿼터뷰 액션 슈팅 게임 
 - 서울과학기술대학교 컴퓨터공학과 졸업작품
-[시연 영상 링크](https://www.youtube.com/watch?v=sNFNe7nwdg0&feature=youtu.be)
+- [시연 영상 링크](https://www.youtube.com/watch?v=sNFNe7nwdg0&feature=youtu.be)
 
 <img width="2121" height="1206" alt="image" src="https://github.com/user-attachments/assets/035317e5-61ee-412f-95ba-3e107c8df944" />
 
