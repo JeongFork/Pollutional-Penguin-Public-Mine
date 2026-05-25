@@ -1,0 +1,8 @@
+.git/objects/pack/pack-1834a0a8dfcaf6edc52cd77724109c80e086ab07.pack filter=lfs diff=lfs merge=lfs -text
+Pollution_Penguin/.vs/Pollution_Penguin/v17/Browse.VC.db filter=lfs diff=lfs merge=lfs -text
+Pollution_Penguin/Intermediate/ProjectFiles/UE5.vcxproj filter=lfs diff=lfs merge=lfs -text
+toy[[:space:]]data/* filter=lfs diff=lfs merge=lfs -text
+*.uasset filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
