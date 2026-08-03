@@ -222,9 +222,11 @@ Github
 
 **수정 전 / 수정 후 비교**
 
-| 수정 전 | 수정 후 |
-| :---: | :---: |
-| <img src="Docs/총알 발사지연 수정전.png" width="400" /> | <img src="Docs/총알 발사지연 수정후.png" width="400" /> |
+수정 전
+<img src="Docs/총알 발사지연 수정전.png" width="700" />
+
+수정 후
+<img src="Docs/총알 발사지연 수정후.png" width="700" />
 
 #### 3.6. NetUpdateFrequency, NetDormancy를 통한 네트워크 최적화
 
