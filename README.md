@@ -220,13 +220,12 @@ Github
 | :--- | :--- | :--- | :--- | :--- |
 | $\color{#D9730D}{\textsf{2.27\\\%}}$ ▲ | 36.85% ▼ | 가짜 총알: 96.14% ▼<br>로컬 이펙트: 96.46% ▼ | 실제 총알: 8.98% ▼<br>서버 이펙트: 6.35% ▼ | GameNetDriver 36.46% ▼ |
 
-**수정 전 / 수정 후 비교**
 
-수정 전
-<img src="Docs/총알 발사지연 수정전.png" width="700" />
+**수정전**
+<img src="Docs/총알 발사지연 수정전.png" />
 
-수정 후
-<img src="Docs/총알 발사지연 수정후.png" width="700" />
+**수정후**
+<img src="Docs/총알 발사지연 수정후.png" />
 
 #### 3.6. NetUpdateFrequency, NetDormancy를 통한 네트워크 최적화
 
